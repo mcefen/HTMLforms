@@ -1,0 +1,52 @@
+body {
+    text-indent: 20px;
+}
+h1 {
+    text-align: center;
+}
+html {
+    background-image: url("Fondo verde.png");
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center center;
+}
+div {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size:15px;
+    text-align: justify;
+    margin: 0 auto;
+    margin-left: 20px;
+}
+section {
+   background-color: white;
+   max-width: 550px;
+   height: 1100px;
+   margin: auto; 
+}
+input {
+    text-align: center;
+    width: 400px;
+    height: 40px;
+    margin-left: 20px;
+}
+label {
+    margin-left: 20px;
+}
+.btn {
+    margin-left: 20px;
+    border: 2px;
+    padding: 10px 185px;
+    background-image: url("Fondo\ verde.png");
+}
+
+
+
+
+
+
+
+
+
+
+
+
